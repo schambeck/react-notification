@@ -4,7 +4,7 @@ import { createNativeStackNavigator } from '@react-navigation/native-stack';
 import * as Home from './HomeScreen'
 import * as Notification from './NotificationScreen'
 
-export default App = () => {
+export default () => {
   const Stack = createNativeStackNavigator();
 
   return (
