@@ -1,4 +1,6 @@
 # react-notification
+[![Node.js CI](https://github.com/schambeck/react-notification/actions/workflows/node.js.yml/badge.svg)](https://github.com/schambeck/react-notification/actions/workflows/node.js.yml)
+
 React Notifications
 
 ## Install dependencies
