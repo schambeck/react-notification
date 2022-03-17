@@ -2,8 +2,8 @@ import React, { } from 'react';
 import { NavigationContainer } from '@react-navigation/native';
 import { createBottomTabNavigator } from '@react-navigation/bottom-tabs';
 import Ionicons from '@expo/vector-icons/Ionicons';
-import * as Home from './HomeScreen'
-import * as Catalog from './CatalogTab'
+import * as Home from './components/Home/HomeScreen'
+import * as Catalog from './components/Catalog/CatalogTab'
 
 export default () => {
   const Tab = createBottomTabNavigator();

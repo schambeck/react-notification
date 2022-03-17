@@ -13,7 +13,7 @@ export const products = [
             name: "100gr",
             value: 100
         },
-        image: require("./assets/products/apple.png")
+        image: require("../../assets/products/apple.png")
     },
     {
         id: "1bde8d58-69bd-498e-9676-661aefc21b48",
@@ -29,7 +29,7 @@ export const products = [
             name: "100gr",
             value: 100
         },
-        image: require("./assets/products/avocado.png")
+        image: require("../../assets/products/avocado.png")
     },
     {
         id: "3ac68afc-c605-48d3-a4f8-fbd91aa97f63",
@@ -45,7 +45,7 @@ export const products = [
             name: "100gr",
             value: 100
         },
-        image: require("./assets/products/banana.png")
+        image: require("../../assets/products/banana.png")
     },
     {
         id: "58694a0f-3da1-471f-bd96-145571e29d72",
@@ -61,7 +61,7 @@ export const products = [
             name: "100gr",
             value: 100
         },
-        image: require("./assets/products/broccoli.png")
+        image: require("../../assets/products/broccoli.png")
     },
     {
         id: "c496c4af-4c42-41a7-af5a-11f7eb61149a",
@@ -77,7 +77,7 @@ export const products = [
             name: "100gr",
             value: 100
         },
-        image: require("./assets/products/carrot.png")
+        image: require("../../assets/products/carrot.png")
     },
     {
         id: "3b113f55-68b9-4c8b-9695-1a6cb0d0cebf",
@@ -93,7 +93,7 @@ export const products = [
             name: "100gr",
             value: 100
         },
-        image: require("./assets/products/grape.png")
+        image: require("../../assets/products/grape.png")
     },
     {
         id: "172272fa-4bba-4241-b889-063dea728a45",
@@ -109,7 +109,7 @@ export const products = [
             name: "100gr",
             value: 100
         },
-        image: require("./assets/products/pineapple.png")
+        image: require("../../assets/products/pineapple.png")
     },
     {
         id: "c07b48e2-09a4-4a06-9d5b-b35ac6485542",
@@ -125,6 +125,6 @@ export const products = [
             name: "100gr",
             value: 100
         },
-        image: require("./assets/products/watermelon.png")
+        image: require("../../assets/products/watermelon.png")
     },
 ];

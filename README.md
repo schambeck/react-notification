@@ -19,6 +19,6 @@ Folder generated: web-build
 
 ## Deployment
 
-### Heroku
+### GitHub Pages
 
-URL: https://sch-react-notification.herokuapp.com
+URL: https://schambeck.github.io/react-notification
