@@ -1,18 +1,25 @@
-import React, {  } from 'react';
+import React, { } from 'react';
 import { NavigationContainer } from '@react-navigation/native';
-import { createNativeStackNavigator } from '@react-navigation/native-stack';
+import { createBottomTabNavigator } from '@react-navigation/bottom-tabs';
+import Ionicons from '@expo/vector-icons/Ionicons';
 import * as Home from './HomeScreen'
-import * as Notification from './NotificationScreen'
+import * as Catalog from './CatalogTab'
 
 export default () => {
-  const Stack = createNativeStackNavigator();
+  const Tab = createBottomTabNavigator();
 
   return (
     <NavigationContainer>
-      <Stack.Navigator>
-        <Stack.Screen name="Home" component={Home.HomeScreen} options={{ title: 'Welcome' }} />
-        <Stack.Screen name="NotificationList" component={Notification.NotificationScreen} />
-      </Stack.Navigator>
+      <Tab.Navigator initialRouteName='Home'>
+        <Tab.Screen
+          name="Home" component={Home.HomeScreen}
+          options={{ title: 'Home', tabBarIcon: ({ focused, color, size }) => <Ionicons name='home' focused={focused} color={color} size={size} />}}
+        />
+        <Tab.Screen
+          name="CatalogTab" component={Catalog.CatalogTab}
+          options={{ title: 'Catalog', headerShown: false, tabBarIcon: ({ focused, color, size }) => <Ionicons name='list' focused={focused} color={color} size={size} />}}
+        />
+      </Tab.Navigator>
     </NavigationContainer>
   );
 
