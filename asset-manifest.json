@@ -1,22 +1,31 @@
 {
   "files": {
-    "app.js": "/react-notification/static/js/app.ebdd0b1c.chunk.js",
-    "app.js.map": "/react-notification/static/js/app.ebdd0b1c.chunk.js.map",
+    "app.js": "/react-notification/static/js/app.bd987a6f.chunk.js",
+    "app.js.map": "/react-notification/static/js/app.bd987a6f.chunk.js.map",
     "runtime~app.js": "/react-notification/static/js/runtime~app.87589345.js",
     "runtime~app.js.map": "/react-notification/static/js/runtime~app.87589345.js.map",
-    "static/js/2.9aea4499.chunk.js": "/react-notification/static/js/2.9aea4499.chunk.js",
-    "static/js/2.9aea4499.chunk.js.map": "/react-notification/static/js/2.9aea4499.chunk.js.map",
+    "static/js/2.b6c0cb03.chunk.js": "/react-notification/static/js/2.b6c0cb03.chunk.js",
+    "static/js/2.b6c0cb03.chunk.js.map": "/react-notification/static/js/2.b6c0cb03.chunk.js.map",
+    "fonts/Ionicons.ttf": "/react-notification/./fonts/Ionicons.ttf",
     "favicon-16.png": "/react-notification/favicon-16.png",
     "favicon-32.png": "/react-notification/favicon-32.png",
     "favicon.ico": "/react-notification/favicon.ico",
     "index.html": "/react-notification/index.html",
     "manifest.json": "/react-notification/manifest.json",
     "serve.json": "/react-notification/serve.json",
-    "static/js/2.9aea4499.chunk.js.LICENSE.txt": "/react-notification/static/js/2.9aea4499.chunk.js.LICENSE.txt"
+    "static/js/2.b6c0cb03.chunk.js.LICENSE.txt": "/react-notification/static/js/2.b6c0cb03.chunk.js.LICENSE.txt",
+    "static/media/apple.png": "/react-notification/static/media/apple.f596126b.png",
+    "static/media/avocado.png": "/react-notification/static/media/avocado.d08ec3e8.png",
+    "static/media/banana.png": "/react-notification/static/media/banana.a1b3bc00.png",
+    "static/media/broccoli.png": "/react-notification/static/media/broccoli.2422ec6f.png",
+    "static/media/carrot.png": "/react-notification/static/media/carrot.3d9dfe68.png",
+    "static/media/grape.png": "/react-notification/static/media/grape.bc0bce7a.png",
+    "static/media/pineapple.png": "/react-notification/static/media/pineapple.eebcd6c9.png",
+    "static/media/watermelon.png": "/react-notification/static/media/watermelon.8ebfa8cc.png"
   },
   "entrypoints": [
     "static/js/runtime~app.87589345.js",
-    "static/js/2.9aea4499.chunk.js",
-    "static/js/app.ebdd0b1c.chunk.js"
+    "static/js/2.b6c0cb03.chunk.js",
+    "static/js/app.bd987a6f.chunk.js"
   ]
 }
