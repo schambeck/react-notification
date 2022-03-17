@@ -1,7 +1,7 @@
 {
   "files": {
-    "app.js": "/react-notification/static/js/app.bd987a6f.chunk.js",
-    "app.js.map": "/react-notification/static/js/app.bd987a6f.chunk.js.map",
+    "app.js": "/react-notification/static/js/app.160c820e.chunk.js",
+    "app.js.map": "/react-notification/static/js/app.160c820e.chunk.js.map",
     "runtime~app.js": "/react-notification/static/js/runtime~app.87589345.js",
     "runtime~app.js.map": "/react-notification/static/js/runtime~app.87589345.js.map",
     "static/js/2.b6c0cb03.chunk.js": "/react-notification/static/js/2.b6c0cb03.chunk.js",
@@ -26,6 +26,6 @@
   "entrypoints": [
     "static/js/runtime~app.87589345.js",
     "static/js/2.b6c0cb03.chunk.js",
-    "static/js/app.bd987a6f.chunk.js"
+    "static/js/app.160c820e.chunk.js"
   ]
 }
